@@ -12,7 +12,7 @@ The Duquesne Basketball coaching staff was looking to keep track of specific pla
 1. Given spreadsheet of potential targets for the transfer portal next offseason.
 2. Create a python script to web-scrape NCAA basketball player statistics
 3. Left-join the web-scraped statistics with the given spreadsheet (by Name) ensuring that only desired players are included.
-4. Output the spreadsheet
+4. Output the spreadsheet.
 5. Run the python script every couple days, updating the spreadsheet with the most recent statistics.
 6. Send the spreadsheet to coaching staff.
 
